@@ -1,7 +1,6 @@
 # DermAInsight
 
-<img src='UI:UX/Logo_v3_draw_final_logo_circle (1).png' alt="Logo"
-  width= 500>
+<img src='UI:UX/Logo_v3_draw_final_logo_circle (1).png'>
 
 <h2>Dataset</h2>
 
