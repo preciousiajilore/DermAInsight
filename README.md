@@ -10,8 +10,8 @@ The SCIN dataset, developed in collaboration with physicians at [(https://med.st
 
 
 <h2>Figma Demo</h2>
-click here to access our [Figma Demo](https://www.figma.com/proto/qS49QQcyvwg2B2IteOcyb9/dermAInsight-Prototype?node-id=198-605&t=H7uY7SvuJVobRigo-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=198%3A605)
 
+Check out our Figma demo to see what the app should look like: [Figma Demo]([https://www.figma.com/file/yourfigmalink](https://www.figma.com/proto/qS49QQcyvwg2B2IteOcyb9/dermAInsight-Prototype?node-id=198-605&t=H7uY7SvuJVobRigo-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=198%3A605))
 
 
 
